@@ -1,6 +1,7 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Welcome to our second DaAnalytics slide!"
 ---
-Your text
-Use the left arrow to go back!
+My text
+Use the left arrow if you want to go back!
+Leave the right arrow alone!
